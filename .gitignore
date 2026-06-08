@@ -1,0 +1,13 @@
+*.exe
+
+# Go
+vendor/
+
+# Env
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
